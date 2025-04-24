@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Java Project](https://github.com/gaz3tt4/trabalho-B2)
 
-- 👨‍💻 All of my projects are available at [https://github.com/gaz3tt4?tab=repositories](https://github.com/gaz3tt4?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/gaz3tt4?tab=repositories)
 
 - 💬 Ask me about **Oracle PL/SQL**
 
